@@ -4,7 +4,11 @@ body {
 
 ul {
 	border-style: solid;
-	padding: 20px;
+	padding: 200px;
+	background-image: url("GTI-Mk6.jpg");
+	background-repeat: no-repeat;
+	background-size: 50% 100%;
+	background-position: right;
 }
 
 h1.move-center {
