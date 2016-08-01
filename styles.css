@@ -39,3 +39,9 @@ h1#margin {
 	margin-left: 20px;
 	margin-bottom: 1px;
 }
+
+@media  (max-width: 500px ){
+body {
+	background-color: white;
+}
+}
