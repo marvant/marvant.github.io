@@ -1,3 +1,47 @@
 body {
 	background-color: lightblue;
 }
+
+ul {
+	border-style: solid;
+	padding: 200px;
+	background-image: url("GTI-Mk6.jpg");
+	background-repeat: no-repeat;
+	background-size: 50% 100%;
+	background-position: right;
+	font-size: 40px;
+	font-family: Helvetica;
+}
+
+h1.move-center {
+	margin-left: 25%;
+}
+
+footer {
+	text-align: center;
+	border-style: dotted;
+}
+
+p.one {
+	background-color: tomato;
+	font-size: 20px;
+}
+
+form.form-style {
+	padding: 10px;
+}
+
+a:visited {
+	color: red;
+}
+
+h1#margin {
+	margin-left: 20px;
+	margin-bottom: 1px;
+}
+
+@media  (max-width: 500px ){
+body {
+	background-color: white;
+}
+}
