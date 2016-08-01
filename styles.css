@@ -9,6 +9,8 @@ ul {
 	background-repeat: no-repeat;
 	background-size: 50% 100%;
 	background-position: right;
+	font-size: 40px;
+	font-family: Helvetica;
 }
 
 h1.move-center {
