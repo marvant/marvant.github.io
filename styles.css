@@ -34,3 +34,8 @@ form.form-style {
 a:visited {
 	color: red;
 }
+
+h1#margin {
+	margin-left: 20px;
+	margin-bottom: 1px;
+}
